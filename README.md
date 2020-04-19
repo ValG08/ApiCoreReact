@@ -18,9 +18,7 @@ npm install --save-dev @babel/core @babel/preset-env  @babel/preset-react babel-
 
 npm install --save i18next
 npm install --save react-i18next
-
 npm install --save-dev jest
-
 
 ------- (для тестов)
 сервер должен быть запущен
