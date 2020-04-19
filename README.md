@@ -1,5 +1,5 @@
-для запуска testreactapp.
-npm install
+# для запуска testreactapp.
+# npm install
 команды (все одним разом)
 npm run dev
 после Compiled successfully.
