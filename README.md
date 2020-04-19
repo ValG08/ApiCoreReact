@@ -10,6 +10,7 @@ npm run dev
 
 в терминале Project is running at
 
+
 ----------------------- (использованые dependencies)
 
 npm i react
@@ -21,6 +22,7 @@ npm i react-router-dom
 -- (все одним разом)
 npm install --save-dev @babel/core @babel/preset-env  @babel/preset-react babel-loader css-loader webpack webpack-cli style-loader webpack-dev-server
 
+
 --
 
 npm install --save i18next
@@ -29,12 +31,14 @@ npm install --save react-i18next
 
 npm install --save-dev jest
 
+
 ------- (для тестов)
 
 сервер должен быть запущен
 
 npm test
 
+ 
  
 ошибка может возникнуть при запуске тестов 
 
