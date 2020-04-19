@@ -1,0 +1,18 @@
+{
+    "notepage": {
+        "labelcombobox": "Язык",
+        "sumbitbtn": "Добавить",
+        "opmessage" : "Успех",
+        "theadfirst": "Id",
+        "theadsecond": "Сообщение",
+        "theadthird": "Действие",
+        "tbodyactionsave" : "Сохранить",
+        "tbodyactiondelete" : "Удалить"
+    },
+    "pager": {
+        "first": "Первая",
+        "prev": "Пред.",
+        "next": "След.",
+        "last": "Посл."
+    }
+}

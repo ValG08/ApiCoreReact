@@ -1,0 +1,13 @@
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\bin\Debug\netcoreapp3.0\TestWebApiCore.BLL.deps.json
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\bin\Debug\netcoreapp3.0\TestWebApiCore.BLL.dll
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\obj\Debug\netcoreapp3.0\TestWebApiCore.BLL.csprojAssemblyReference.cache
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\obj\Debug\netcoreapp3.0\TestWebApiCore.BLL.AssemblyInfoInputs.cache
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\obj\Debug\netcoreapp3.0\TestWebApiCore.BLL.AssemblyInfo.cs
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\bin\Debug\netcoreapp3.0\TestWebApiCore.BLL.pdb
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\bin\Debug\netcoreapp3.0\TestWebApiCore.Common.dll
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\bin\Debug\netcoreapp3.0\TestWebApiCore.DAL.dll
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\bin\Debug\netcoreapp3.0\TestWebApiCore.Common.pdb
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\bin\Debug\netcoreapp3.0\TestWebApiCore.DAL.pdb
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\obj\Debug\netcoreapp3.0\TestWebApiCore.BLL.csproj.CopyComplete
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\obj\Debug\netcoreapp3.0\TestWebApiCore.BLL.dll
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.BLL\obj\Debug\netcoreapp3.0\TestWebApiCore.BLL.pdb

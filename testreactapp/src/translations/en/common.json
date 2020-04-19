@@ -1,0 +1,18 @@
+{
+    "notepage": {
+        "labelcombobox": "Language",
+        "sumbitbtn": "Add",
+        "opmessage" : "Operation successful",
+        "theadfirst": "Id",
+        "theadsecond": "Note",
+        "theadthird": "Action",
+        "tbodyactionsave" : "Save",
+        "tbodyactiondelete" : "Delete"
+    },
+    "pager": {
+        "first": "First",
+        "prev": "Previous",
+        "next": "Next",
+        "last": "Last"
+    }
+}

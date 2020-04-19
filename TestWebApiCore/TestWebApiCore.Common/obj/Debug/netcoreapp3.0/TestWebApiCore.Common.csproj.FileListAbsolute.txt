@@ -1,0 +1,8 @@
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\bin\Debug\netcoreapp3.0\TestWebApiCore.Common.deps.json
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\bin\Debug\netcoreapp3.0\TestWebApiCore.Common.dll
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\bin\Debug\netcoreapp3.0\TestWebApiCore.Common.pdb
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\obj\Debug\netcoreapp3.0\TestWebApiCore.Common.AssemblyInfoInputs.cache
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\obj\Debug\netcoreapp3.0\TestWebApiCore.Common.AssemblyInfo.cs
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\obj\Debug\netcoreapp3.0\TestWebApiCore.Common.dll
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\obj\Debug\netcoreapp3.0\TestWebApiCore.Common.pdb
+D:\C Sharp\sendreact\TestWebApiCore\TestWebApiCore.Common\obj\Debug\netcoreapp3.0\TestWebApiCore.Common.csprojAssemblyReference.cache

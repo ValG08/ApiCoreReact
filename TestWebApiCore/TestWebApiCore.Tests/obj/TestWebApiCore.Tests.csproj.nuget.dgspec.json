@@ -1,0 +1,445 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Tests\\TestWebApiCore.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.BLL\\TestWebApiCore.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.BLL\\TestWebApiCore.BLL.csproj",
+        "projectName": "TestWebApiCore.BLL",
+        "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.BLL\\TestWebApiCore.BLL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\TestWebApiCore.Common.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\TestWebApiCore.Common.csproj"
+              },
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\TestWebApiCore.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\TestWebApiCore.Common.csproj",
+        "projectName": "TestWebApiCore.Common",
+        "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\TestWebApiCore.Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj",
+        "projectName": "TestWebApiCore.DAL",
+        "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Helpers\\TestWebApiCore.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Helpers\\TestWebApiCore.Helpers.csproj",
+        "projectName": "TestWebApiCore.Helpers",
+        "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Helpers\\TestWebApiCore.Helpers.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Tests\\TestWebApiCore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Tests\\TestWebApiCore.Tests.csproj",
+        "projectName": "TestWebApiCore.Tests",
+        "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Tests\\TestWebApiCore.Tests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj"
+              },
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore\\TestWebApiCore.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore\\TestWebApiCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore\\TestWebApiCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore\\TestWebApiCore.csproj",
+        "projectName": "TestWebApiCore",
+        "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore\\TestWebApiCore.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.BLL\\TestWebApiCore.BLL.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.BLL\\TestWebApiCore.BLL.csproj"
+              },
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\TestWebApiCore.Common.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Common\\TestWebApiCore.Common.csproj"
+              },
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.DAL\\TestWebApiCore.DAL.csproj"
+              },
+              "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Helpers\\TestWebApiCore.Helpers.csproj": {
+                "projectPath": "D:\\C Sharp\\gith\\githubfolder\\TestWebApiCore\\TestWebApiCore.Helpers\\TestWebApiCore.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

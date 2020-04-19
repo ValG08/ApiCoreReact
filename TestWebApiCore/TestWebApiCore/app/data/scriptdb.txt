@@ -1,0 +1,7 @@
+﻿if not exists (select * from TestNoteDb.sys.tables where name = 'Notes')
+	Create TABLE Notes
+	(
+	 Id int NOT NULL IDENTITY(1,1),	 
+	 NoteMessage nvarchar(MAX) NOT NULL,	 
+	 PRIMARY KEY (Id)	 
+	);
