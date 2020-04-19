@@ -30,6 +30,7 @@ npm install --save react-i18next
 npm install --save-dev jest
 
 ------- (для тестов)
+
 сервер должен быть запущен
 
 npm test
