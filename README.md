@@ -1,7 +1,7 @@
 для запуска testreactapp.
-npm install
-команды (все одним разом)
-npm run dev
+npm install.
+команды (все одним разом).
+npm run dev.
 после Compiled successfully.
 в терминале Project is running at
 
