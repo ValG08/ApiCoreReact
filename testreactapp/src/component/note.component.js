@@ -220,7 +220,7 @@ class Note extends Component {
             </div>
         </div>
     
-    {noteItems != null && noteItems.length > 0 && (                    
+    {noteItems.length > 0 && (                    
         <table className="table table-striped">
             <thead>
                 <tr><this.getTheads theads={tableTheads} /></tr>
